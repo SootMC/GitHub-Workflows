@@ -1,4 +1,4 @@
-GitHub-Workflows
+# GitHub-Workflows
 A repo to hold all workflows, issue templates and other nonsense that we use for GitHub
 
 
